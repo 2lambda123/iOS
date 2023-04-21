@@ -562,7 +562,7 @@ Home Assistant er gratis og open source hjemmeautomatiseringssoftware med fokus 
 "watch.configurator.delete.button" = "Slet Komplikation?";
 "watch.configurator.delete.message" = "Er du sikker på, at du vil slette denne Komplikation? Dette kan ikke fortrydes.";
 "watch.configurator.delete.title" = "Slet Komplikation?";
-"watch.configurator.list.description" = "Konfigurer en ny Komplikation ved at klikke på Tlføj knappen. Når du har gemt, kan du vælge Komplikationen på dit Apple Watch eller i Watch-appen.";
+"watch.configurator.list.description" = "Konfigurer en ny Komplikation ved at klikke på Tilføj knappen. Når du har gemt, kan du vælge Komplikationen på dit Apple Watch eller i Watch-appen.";
 "watch.configurator.list.manual_updates.footer" = "Automatiske opdateringer sker 4 gange i timen. Der kan også foretages manuelle opdateringer ved hjælp af notifikationer.";
 "watch.configurator.list.manual_updates.manually_update" = "Opdater Komplikationer";
 "watch.configurator.list.manual_updates.remaining" = "Resterende";
